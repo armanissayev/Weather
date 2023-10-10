@@ -1,7 +1,7 @@
 # Weather
  CLI application to get the information about today's weather.\
  Application is implemented by using Golang, and the next tools:\
- Weather API - https://www.weatherapi.com/\
+ Weather API - https://www.weatherapi.com/ \
  Color package for Golang - https://github.com/fatih/color
 
 # Example:
